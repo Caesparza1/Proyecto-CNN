@@ -26,6 +26,7 @@ Este proyecto implementa una Red Neuronal Convolucional (CNN) para la clasificac
 2. Descarga o clona los siguientes archivos:
    - `Segmentación_adaptativo_por_umbrales.ipynb` (Preprocesamiento)
    - `PROYECTO_FINAL_IMÁGENES_RGB.ipynb` (Red Neuronal)
+  .  Descarga el archivo en el siguiente enlace **https://drive.google.com/drive/folders/1uRDB5GqLj1Zv5UEmYDH1Dk4qB9CLLrKU?usp=sharing** 
    - Carpeta `archive/` (Dataset original con las imágenes)
 
 ### Paso 2: Preparar Google Drive
